@@ -25,5 +25,8 @@
 <LI>二收
 <LI>逆推  
 </OL>
+<input type=submit>
+<input type=reset>
+<input type=button>
 </body>
 </html>
