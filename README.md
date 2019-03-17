@@ -26,8 +26,10 @@
   <br>
   <br>
 <font face="標楷體">
-<font color="ff0000">  
+<font color="ff0000">
+<font size="4">  
 <p3>自身的經驗</p3>
+  </font>
   </font>
   </font>
 
