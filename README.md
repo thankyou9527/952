@@ -13,9 +13,11 @@
 </font>
 <p>好玩 齁勝</p>
  </strong>
+  <center>
  <img src="http://www.gamingtoys.com.tw/wp-content/uploads/2013/09/F03P-Toy-Story-2.jpg" width="200" height="200">
-  <p1>許多技巧or專業名詞</p1>
-  <OL>
+  </center>
+<p1>許多技巧or專業名詞</p1>
+<OL>
 <LI>甩爪 ex.頓甩 拍數 斜甩 
 <LI>補位
 <LI>保夾
