@@ -4,15 +4,13 @@
   
 </head>
 
-<body style="background-color:orange;">
-  <strong>
+<body style="background-color:gray;">
 <font face="標楷體">
 <font size="6">
 <h1>關於夾娃娃</h1>
 </font> 
 </font>
 <p>好玩 齁勝</p>
- </strong>
   <center>
  <img src="http://www.gamingtoys.com.tw/wp-content/uploads/2013/09/F03P-Toy-Story-2.jpg" width="200" height="200">
   </center>
@@ -23,7 +21,11 @@
 <LI>保夾
 <LI>倒爪
 <LI>二收
-<LI>逆推  
+<LI>逆推
+  <font face="標楷體">
+  <font color="ff0000">  
+<p3>自身的經驗</p3>
+  </font>
 </OL>
 </body>
 </html>
