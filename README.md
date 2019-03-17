@@ -6,9 +6,10 @@
 
 <body style="background-color:orange;">
   <strong>
- 
+<font face="標楷體">
 <font size="6">
 <h1>關於夾娃娃</h1>
+</font> 
 </font>
 <p>好玩 齁勝</p>
  </strong>
