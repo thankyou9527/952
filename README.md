@@ -14,7 +14,7 @@
 <p>好玩 齁勝</p>
  </strong>
   <center>
- <img src="http://www.gamingtoys.com.tw/wp-content/uploads/2013/09/F03P-Toy-Story-2.jpg" width="200" height="200"><>
+ <img src="http://www.gamingtoys.com.tw/wp-content/uploads/2013/09/F03P-Toy-Story-2.jpg" width="200" height="200"><br>
   </center>
 <p1>許多技巧or專業名詞</p1>
 <OL>
