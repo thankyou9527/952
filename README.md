@@ -22,10 +22,11 @@
 <LI>倒爪
 <LI>二收
 <LI>逆推
+  </OL>
   <font face="標楷體">
   <font color="ff0000">  
 <p3>自身的經驗</p3>
   </font>
-</OL>
+
 </body>
 </html>
