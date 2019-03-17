@@ -22,7 +22,7 @@
 <LI>倒爪
 <LI>二收
 <LI>逆推
-  </p1>
+ </p1>
   
 <font face="標楷體">
 <font color="ff0000">
