@@ -5,9 +5,9 @@
   
 </head>
 
-<body style="background-color:yellow;">
+<body style="background-color:orange;">
 
-<h1>夾娃娃 台湾UFOキャッチャー UFO catcher</h1>
+<h1>夾娃娃</h1>
 
 <p>好玩 齁勝</p>
 
